@@ -1,0 +1,5 @@
+.idea
+.env
+docker/mysql/data
+app/vendor
+app/.env
